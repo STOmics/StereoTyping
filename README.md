@@ -4,9 +4,9 @@ Workflow for Training the Model to Determine Cell Types Using Spatial Transcript
 # Installation
 
 ```
-git clone https://github.com/STOmics/StereoSiTE.git
+git clone https://github.com/STOmics/StereoTyping.git
 
-cd StereoSiTE
+cd StereoTyping
 
 python setup.py install
 ```
